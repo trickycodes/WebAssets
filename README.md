@@ -1,2 +1,4 @@
 # WebAssets
-A repository that holds some static files to access them via CDN in the future.
+
+> [!WARNING]
+> This repository contains static files intended for future access via CDN (Content Delivery Network) usage.
